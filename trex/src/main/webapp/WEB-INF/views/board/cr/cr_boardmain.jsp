@@ -36,7 +36,7 @@
 			<div id="container">
 				<!-- leftmenu-->
 				<div id="leftwrap">
-					<h2 id="leftTi" style="background:url(<%=request.getContextPath()%>/resources/images/sidemenu.jpg) 0 0 no-repeat">대관안내</h2>
+					<h2 id="leftTi" style="background:url(<%=request.getContextPath()%>/resources/images/sidemenu.jpg) 0 0 no-repeat">참여마당</h2>
 
 					<!--LEFTMENU START-->
 
